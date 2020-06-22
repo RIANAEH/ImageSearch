@@ -1,5 +1,4 @@
 # ImageSearch
 융합보안프로젝트1
 
-아래 프로젝트를 참고 함
-https://github.com/inyl/my_notebook/blob/master/machine_learning/image_search.ipynb
+이미지를 입력하면 11번가의 상품 중에 해당 이미지와 비슷한 상품을 찾아준다. 
